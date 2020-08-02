@@ -1,0 +1,81 @@
+{
+    "Clouds": {
+        "iconName": "weather-cloudy",
+        "statusBar": "dark",
+        "heading": "Cloud",
+        "subheading": "I know, freaking boring",
+        "colors": {
+            "gradient": ["#FFFFFF", "#ECE9E6"],
+            "icon": "#274046",
+            "temp": "#274046",
+            "heading": "#274046",
+            "subheading": "#274046"
+        }
+    },
+    "Clear": {
+        "iconName": "weather-sunny",
+        "statusBar": "light",
+        "heading": "Clear",
+        "subheading": "Clear as my criminal record",
+        "colors": {
+            "gradient": ["#56CCF2", "#2F80ED"],
+            "icon": "white",
+            "temp": "white",
+            "heading": "white",
+            "subheading": "white"
+        }
+    },
+    "Thunderstorm": {
+        "iconName": "weather-lightning-rainy",
+        "statusBar": "light",
+        "heading": "Thunderstorm",
+        "subheading": "Stay in tonight",
+        "colors": {
+            "gradient": ["#4b6cb7", "#182848"],
+            "icon": "white",
+            "temp": "white",
+            "heading": "white",
+            "subheading": "white"
+        }
+    },
+    "Drizzle": {
+        "iconName": "weather-partly-rainy",
+        "statusBar": "dark",
+        "heading": "Drizzle",
+        "subheading": "Neither clear nor rain.",
+        "colors": {
+            "gradient": ["#eef2f3", "#8e9eab"],
+            "icon": "black",
+            "temp": "black",
+            "heading": "black",
+            "subheading": "black"
+        }
+    },
+    "Rain": {
+        "iconName": "weather-rainy",
+        "statusBar": "light",
+        "heading": "Rain",
+        "subheading": "ASMR",
+        "colors": {
+            "gradient": ["#414345", "#232526"],
+            "icon": "white",
+            "temp": "white",
+            "heading": "white",
+            "subheading": "white"
+        }
+    },
+    "Snow": {
+        "iconName": "snowflake",
+        "statusBar": "dark",
+        "heading": "Snow",
+        "subheading": "Do you wanna build a snowman?",
+        "colors": {
+            "gradient": ["#E6DADA", "#274046"],
+            "icon": "white",
+            "temp": "white",
+            "heading": "white",
+            "subheading": "white"
+        }
+    }
+}
+

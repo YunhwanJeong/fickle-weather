@@ -14,4 +14,4 @@ web-build/
 .DS_Store
 
 # dotenv environment variables file
-.env
+environment.js
